@@ -21,7 +21,7 @@ Es una presentación de diapositivas para recorrer una serie de contenido. Se pu
 
 Es un contenedor de contenidos flexible y extensible . Incluye opciones para encabezados y pies de página.
 
-<img src=" https://i.ytimg.com/vi/ibfE0GnGYw8/hqdefault.jpg">
+<img src="https://i.ytimg.com/vi/ibfE0GnGYw8/hqdefault.jpg">
 
 
 ## Formulario
